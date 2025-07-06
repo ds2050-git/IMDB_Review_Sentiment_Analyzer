@@ -26,7 +26,7 @@ A sentiment analysis tool for IMDB movie reviews using a Simple RNN model built 
 2. Set up a virtual environment (optional):
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
    ```
 3. Install dependencies:
    ```bash
